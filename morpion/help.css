@@ -1,0 +1,35 @@
+body {
+	background-color: #B0C4DE;
+}
+h1 {
+	text-align: center;
+}
+#image2{
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
+#image1{
+	margin-left: 24%;
+}
+#image4{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.retour a {
+	display:block;
+	width:125px;
+	line-height:50px;
+	text-align:center;
+	vertical-align:middle;
+	background:url(images/bouton.png)no-repeat;
+	float: right;
+	color:white;
+	text-decoration:none;
+}
+.retour{
+	position: absolute;
+	right:30px;
+	bottom:30px;
+}
